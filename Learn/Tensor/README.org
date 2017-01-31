@@ -1,0 +1,19 @@
+#+TODO: READ : DONE
+
+* TensorFlow
+** Reference
+   - [[https://www.safaribooksonline.com/library/view/learning-tensorflow/9781491978504/ch02.html][O-reily-ref]]
+
+** Python setup 
+*** vguha-linux machine
+**** Setup
+     - After installing virtualenv
+     - mkdir env/tensorflow
+     - virtualenv env/tensorflow
+     - source ./env/tensorflow/bin/activate
+
+
+** Read up on
+*** READ Softmax regression
+*** READ GradientDescentOptimizer
+    It was mentioned int he Andrew Ng Course ware. Read up on it. 

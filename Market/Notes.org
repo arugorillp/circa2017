@@ -1,0 +1,10 @@
+
+
+* Conversion short cuts
+** Rupee to Dollar
+   10000 Crore rupees = 1.47 billion dollars at 68Rs per dollar
+   10    Crore rupees = 1.47 million dollars at 68Rs per dollar
+** Dollar to Rupee
+   1 million dollar = 6.8 crore at 68Rs per dollar
+   1 billion dollar = 6800 crore at 68Rs per dollar
+
