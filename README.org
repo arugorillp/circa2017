@@ -1,3 +1,37 @@
+#+TODO: READ INPROGRESS | DONE
+#+TODO: TODO INPROGRESS | DONE HALT
+#+TODO: | NOTE
 
+* Notes
+** NOTE Prob and Network Programming
+   DEADLINE: <2017-02-06 Mon> SCHEDULED: <2017-02-06 Mon>
+   What is the difference between "Monty Hall Problem" vs
+   "Gambler's Fallacy". I usually err to avoid the "Gambler's
+   fallacy".
+   I have been reading up on Python Asyncio. Though I have not got
+   a complete feel of it - though the network application makes
+   complete sense. Need to fathom when to apply it as a design
+   pattern. 
 
-* Main Note
+** Read up on
+*** READ [#A] [[https://www.safaribooksonline.com/library/view/probability-and-statistics/9781439875919/cover.xhtml][O-reily-videos]]
+    SCHEDULED: <2017-02-06 Mon>
+*** READ Softmax regression
+    SCHEDULED: <2017-02-06 Mon>
+*** READ GradientDescentOptimizer
+    SCHEDULED: <2017-02-06 Mon>
+    It was mentioned int he Andrew Ng Course ware. Read up on it. 
+*** READ [[https://www.safaribooksonline.com/library/view/bayesian-probability-theory/9781139949293/Cover.html][Bayesian_Prob_Theory]]
+    SCHEDULED: <2017-02-06 Mon>
+*** READ [[https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info][ML0_Course]]
+    SCHEDULED: <2017-02-06 Mon>
+*** READ Python Asyncio
+    SCHEDULED: <2017-02-06 Mon>
+    + [[http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/][Twisted_Intro]]
+    + https://docs.python.org/3/library/asyncio.html
+      - Read up on the PEPs
+*** READ Network Programming
+    SCHEDULED: <2017-02-06 Mon>
+    + http://beej.us/guide/bgnet/output/html/multipage/index.html
+*** READ Random Variable
+    https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library

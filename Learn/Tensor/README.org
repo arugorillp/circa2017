@@ -13,7 +13,4 @@
      - source ./env/tensorflow/bin/activate
 
 
-** Read up on
-*** READ Softmax regression
-*** READ GradientDescentOptimizer
-    It was mentioned int he Andrew Ng Course ware. Read up on it. 
+
