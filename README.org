@@ -34,4 +34,5 @@
     SCHEDULED: <2017-02-06 Mon>
     + http://beej.us/guide/bgnet/output/html/multipage/index.html
 *** READ Random Variable
-    https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library
+    SCHEDULED: <2017-02-06 Mon>
+    + https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library
