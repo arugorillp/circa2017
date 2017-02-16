@@ -1,0 +1,30 @@
+#+TODO: READ INPROGRESS | DONE
+#+TODO: TODO INPROGRESS | DONE HALT
+#+TODO: | NOTE
+
+* Design
+** Questions
+   - What about Comprehension type question?
+   - Submission of text based answer rather than a fixed answers.
+   - Actual Question
+   - Multiple Options (Choose)
+   - Correct Answer
+   - Time to answer
+   - Avg time to answer
+   - Median time to answer
+   - Standard deviation
+   - Mode
+   - Difficulty
+   - Probability of Difficulty as per to Person
+   - tags
+   - Category
+   - Survey type??
+** Persons
+   - Name
+   - Unique id
+   - Probability of ability each question
+** Tests
+   - Multiple questions
+   - Category of test
+** Models
+** Analysis
