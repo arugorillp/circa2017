@@ -2,6 +2,15 @@
 #+TODO: TODO INPROGRESS | DONE HALT
 #+TODO: | NOTE
 
+* Main tasks
+** TODO Prob & Stats
+   - Complete the book
+** TODO HMM
+   - Complete the book and try out multiple articles
+** TODO ML0
+   - Complete the book
+
+
 * Notes
 ** NOTE Prob and Network Programming
    DEADLINE: <2017-02-06 Mon> SCHEDULED: <2017-02-06 Mon>
@@ -42,14 +51,15 @@
       https://stat.ethz.ch/pipermail/r-packages/2009/001003.html
     [[./Learn/IRT/README.org][IRT_README.org]]
 *** READ How does IPython work - Design
-    https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html
+    [[https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html][READ]]
 *** READ all the IPython books
     Also has data-science books to
-    https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks
+    [[https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks][READ]]
 *** READ Microsoft Air Sim
-    https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/
+    [[https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/][READ]]
 *** READ Intel AI
-    https://software.intel.com/ai/academy?cid=&utm_content=Machine_Learning_Enthusiasts&utm_medium=Banner_Ad&utm_source=MIT_Tech_Review&utm_campaign=AI_Q1_17_Digital_Media_Campaign&goal=0_997ed6f472-2c0f81167e-153747725&mc_cid=2c0f81167e&mc_eid=ebd9c332d0
+    [[https://software.intel.com/ai/academy?cid=&utm_content=Machine_Learning_Enthusiasts&utm_medium=Banner_Ad&utm_source=MIT_Tech_Review&utm_campaign=AI_Q1_17_Digital_Media_Campaign&goal=0_997ed6f472-2c0f81167e-153747725&mc_cid=2c0f81167e&mc_eid=ebd9c332d0][READ]]
 *** READ [#A] AI Juggles probability
     SCHEDULED: <2017-02-16 Thu>
     [[https://www.technologyreview.com/s/603542/ai-software-juggles-probabilities-to-learn-from-less-data/?utm_campaign=newsletters&utm_source=newsletter-weekly-robotics&utm_medium=email&utm_content=20170215&goal=0_997ed6f472-2c0f81167e-153747725&mc_cid=2c0f81167e&mc_eid=ebd9c332d0][MIT_RESOURCE]]
+    - It shows use of Bayesian probability in comparison to neural networks.
