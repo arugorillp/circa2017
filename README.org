@@ -3,12 +3,19 @@
 #+TODO: | NOTE
 
 * Main tasks
+** TODO OCR :PROJECT:
+   Requirements:
+   - Start with scanning images
+   - Then port to mobile
+   - Maths to support
+** TODO IRT :PROJECT:
+   - use ML and neural net to better IRT?
+** TODO ML0
+   - Complete the book
 ** TODO Prob & Stats
    - Complete the book
 ** TODO HMM
    - Complete the book and try out multiple articles
-** TODO ML0
-   - Complete the book
 
 
 * Notes
