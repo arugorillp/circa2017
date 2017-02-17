@@ -4,6 +4,7 @@
 
 * Main tasks
 ** TODO OCR :PROJECT:
+   [[c:/VVP/R2_2017/OCR/README.org][Link-to-project]]
    Requirements:
    - Start with scanning images
    - Then port to mobile
